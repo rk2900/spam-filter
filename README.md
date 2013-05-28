@@ -1,5 +1,7 @@
 [ 博客网址 ]
 
+	http://blog.csdn.net/rk2900/article/details/8984276
+	
 [ 总体思想 ]
 
 	利用Naive Bayes（后验概率）计算特征所属空间的概率，取其最大者为判定结果。
